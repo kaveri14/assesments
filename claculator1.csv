@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1618568868492,1018,ADD HTTP Request,200,OK,Soap Request 1-1,text,true,,586,434,1,1,http://www.dneonline.com/calculator.asmx,1017,0,657
+1618568870059,315,DIVIDE HTTP Request,200,OK,Soap Request 1-1,text,true,,585,438,1,1,http://www.dneonline.com/calculator.asmx,314,0,0
+1618568870380,322,MULTIPLY HTTP Request,200,OK,Soap Request 1-1,text,true,,585,442,1,1,http://www.dneonline.com/calculator.asmx,322,0,0
+1618568870709,309,SUBTRACT HTTP Request,200,OK,Soap Request 1-1,text,true,,585,450,1,1,http://www.dneonline.com/calculator.asmx,308,0,0

@@ -1,0 +1,4 @@
+1.61857E+12,847,ADD HTTP Request,200,OK,Soap Request 1-1,text,TRUE,,586,434,1,1,http://www.dneonline.com/calculator.asmx,847,0,501
+1.61857E+12,314,DIVIDE HTTP Request,200,OK,Soap Request 1-1,text,TRUE,,585,438,1,1,http://www.dneonline.com/calculator.asmx,314,0,0
+1.61857E+12,307,MULTIPLY HTTP Request,200,OK,Soap Request 1-1,text,TRUE,,585,442,1,1,http://www.dneonline.com/calculator.asmx,307,0,0
+1.61857E+12,307,SUBTRACT HTTP Request,200,OK,Soap Request 1-1,text,TRUE,,585,450,1,1,http://www.dneonline.com/calculator.asmx,306,0,0

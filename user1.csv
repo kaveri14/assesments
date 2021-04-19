@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1618572615626,2185,Post HTTP Request,400,Bad request,Thread Group 1-2,text,false,Test failed: code expected to contain /200/,268,414,3,3,https://petstore.swagger.io/v2/user,2182,0,1871
+1618572615957,1854,Post HTTP Request,400,Bad request,Thread Group 1-3,text,false,Test failed: code expected to contain /200/,268,402,3,3,https://petstore.swagger.io/v2/user,1851,0,1544
+1618572615447,2364,Post HTTP Request,400,Bad request,Thread Group 1-1,text,false,Test failed: code expected to contain /200/,268,414,3,3,https://petstore.swagger.io/v2/user,2361,0,2036
+1618572617879,303,Get HTTP Request,400,Bad request,Thread Group 1-3,text,false,Test failed: text expected to contain /200/,263,233,3,3,https://petstore.swagger.io/v2/user/login,302,0,0
+1618572617879,303,Get HTTP Request,400,Bad request,Thread Group 1-2,text,false,Test failed: text expected to contain /200/,263,233,3,3,https://petstore.swagger.io/v2/user/login,302,0,0
+1618572617879,314,Get HTTP Request,400,Bad request,Thread Group 1-1,text,false,Test failed: text expected to contain /200/,263,233,1,1,https://petstore.swagger.io/v2/user/login,313,0,0
